@@ -5,7 +5,11 @@
 
 
 ### config
-
+* training set-up(batch, epoch 등)
+* data 경로
+* feature 뽑는 방법
+* optimization hyper parameter
+* model 정의
 
 
 
