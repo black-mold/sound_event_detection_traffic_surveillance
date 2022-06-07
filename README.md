@@ -2,13 +2,19 @@
 
 
 
+
+
 ### config
 
 
+
+
+
 ### data
+* data가 저장되어있는 폴더
+#### feature
+* data에서 뽑아낸 feature 저장 폴더
 
-
-### feature
 
 
 ### transform
