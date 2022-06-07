@@ -14,5 +14,5 @@
 ### transform
 
 
-### log
+### exp_log
 * Directory where to save tensorboard logs, saved models, etc.
